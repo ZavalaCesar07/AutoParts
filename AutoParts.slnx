@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AutoParts.BusinessLogic/AutoParts.BusinessLogic.csproj" />
+  <Project Path="AutoParts.DataAccess/AutoParts.DataAccess.csproj" />
+  <Project Path="AutoParts.Entity/AutoParts.Entity.csproj" />
+  <Project Path="AutoParts.View/AutoParts.View.csproj" />
+</Solution>
