@@ -14,7 +14,7 @@ namespace AutoParts.DataAccess
             _connectionString = connectionString;
         }
 
-        public SqlConnection createConnection()
+        public SqlConnection CreateConnection()
         {
             return new SqlConnection(_connectionString);
         }
